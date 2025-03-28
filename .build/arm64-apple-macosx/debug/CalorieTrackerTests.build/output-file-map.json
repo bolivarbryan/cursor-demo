@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/bolivarbryan/Developer/cursor-demo/.build/arm64-apple-macosx/debug/CalorieTrackerTests.build/master.swiftdeps"
+  },
+  "/Users/bolivarbryan/Developer/cursor-demo/Tests/CalorieTrackerTests/WaterIntakeTests.swift": {
+    "dependencies": "/Users/bolivarbryan/Developer/cursor-demo/.build/arm64-apple-macosx/debug/CalorieTrackerTests.build/WaterIntakeTests.d",
+    "object": "/Users/bolivarbryan/Developer/cursor-demo/.build/arm64-apple-macosx/debug/CalorieTrackerTests.build/WaterIntakeTests.swift.o",
+    "swiftmodule": "/Users/bolivarbryan/Developer/cursor-demo/.build/arm64-apple-macosx/debug/CalorieTrackerTests.build/WaterIntakeTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/bolivarbryan/Developer/cursor-demo/.build/arm64-apple-macosx/debug/CalorieTrackerTests.build/WaterIntakeTests.swiftdeps"
+  }
+}

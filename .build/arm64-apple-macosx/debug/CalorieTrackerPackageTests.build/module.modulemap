@@ -1,0 +1,4 @@
+module CalorieTrackerPackageTests {
+    header "/Users/bolivarbryan/Developer/cursor-demo/.build/arm64-apple-macosx/debug/CalorieTrackerPackageTests.build/CalorieTrackerPackageTests-Swift.h"
+    requires objc
+}

@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "type": "lldb",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:cursor-demo}/CalorieTracker",
+            "name": "Debug CalorieTracker (CalorieTracker)",
+            "program": "${workspaceFolder:cursor-demo}/CalorieTracker/.build/debug/CalorieTracker",
+            "preLaunchTask": "swift: Build Debug CalorieTracker (CalorieTracker)"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:cursor-demo}/CalorieTracker",
+            "name": "Release CalorieTracker (CalorieTracker)",
+            "program": "${workspaceFolder:cursor-demo}/CalorieTracker/.build/release/CalorieTracker",
+            "preLaunchTask": "swift: Build Release CalorieTracker (CalorieTracker)"
+        }
+    ]
+}
